@@ -1,0 +1,61 @@
+
+REPORT
+===========================================
+
+User Details
+===========================================
+Name           : Xyz
+Age            : 24
+Gender         : Male
+Height         : 170.0cm
+Weight         : 55.0kg
+Weight Goal    : 56.5kg
+Activity Level : 2
+
+Your BMI is 19.0 and your weight status is Normal
+
+Calories Report
+===========================================
+Daily calories you need to maintain your current weight is 2073
+Daily calories you need to gain weight (1.50kg/week) is 3573
+
+Suggested meal
+===========================================
+Breakfast:
+
+  Meal Name 1  : Ham and Egg Mushroom Cups
+  Amount       : 3 cup
+  Calories     : 565.5
+
+  Meal Name 2  : Chicken
+  Amount       : 4 peice
+  Calories     : 200.2
+
+  Total Breakfast Calories : 765.7
+
+Lunch:
+
+  Meal Name 1  : Coconut Milk Protein Shake
+  Amount       : 1 shake
+  Calories     : 360
+
+  Meal Name 2  : Cheese slices
+  Amount       : 1 serving
+  Calories     : 115.1
+
+  Total Lunch Calories : 475.1
+
+Dinner:
+
+  Meal Name 1  : Barbeque Chicken
+  Amount       : 2 serving
+  Calories     : 688.8
+
+  Meal Name 2  : Braised Endive
+  Amount       : 2 serving
+  Calories     : 340.3
+
+  Total Dinner Calories : 1029.1
+=============================
+Total Calories : 2270
+=============================
